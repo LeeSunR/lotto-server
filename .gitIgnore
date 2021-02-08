@@ -1,0 +1,7 @@
+/node_modules
+/dist
+/**/.env*
+/images
+/Dockerfile
+/push.sh
+/config/*
